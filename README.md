@@ -1,6 +1,6 @@
 # Drystan JUSTIN - Engineering & R&D Portfolios
 
-Welcome to my central repository! I am a Mechatronics & Microsystems Engineering student with a strong focus on **Bio-Mechatronics, Digital Twin simulations, and Neural Interfaces**. My long-term goal is to pursue a PhD in this field by 2028.
+Welcome to my central repository! I am a Mechatronics & Microsystems Engineering student with a strong focus on **Bio-Mechatronics, BioMEMS, and Neural Interfaces**. My long-term goal is to pursue a PhD in this field by 2028.
 
 Below is a directory of my technical portfolios and R&D projects:
 
