@@ -20,7 +20,7 @@ Below is a directory of my technical portfolios and R&D projects:
 * **Domain:** Electromagnetics, Thermodynamics, Biosafety.
 * **Tools:** Ansys Maxwell 3D, Ansys Icepak.
 * **Highlights:** Simulated the magnetic coupling (WPT) and the thermal dissipation (Joule heating) of a millimeter-scale brain implant.
-* 👉 **[Read the PDF Portfolio here](./01_Ansys_Neural_Implant/docs/Multiphysics_Modeling_for_Wireless_Neural_Implant.pdf)**
+* 👉 **[Read the PDF Portfolio here](./01_Ansys_Neural_Implant/docs/Multiphysics_Modeling_for_Wireless_Neural_Interfaces.pdf)**
 
 ---
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/drystan-justin) | justin.drystan@gmail.com
